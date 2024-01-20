@@ -1,0 +1,23 @@
+{
+  "name": "mea-x",
+  "version": "1.0.0",
+  "description": "Export all from the file as mea-x for faster dealing with functions across your project.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEA-23/mea-x.git"
+  },
+  "author": "Mahmoud El-Araby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEA-23/mea-x/issues"
+  },
+  "homepage": "https://github.com/MEA-23/mea-x#readme"
+}
